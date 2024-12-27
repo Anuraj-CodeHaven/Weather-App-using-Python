@@ -2,7 +2,7 @@
 
 import requests
 import time
-api_key = "735364377dea461e983161109240911"
+api_key = "[Your_api_key]"
 base_url = "http://api.weatherapi.com/v1/current.json"
 print("weather  checker")
 print(" ")
